@@ -1,2 +1,3 @@
 # react-coffee-app
-Done
+
+First working app with React
